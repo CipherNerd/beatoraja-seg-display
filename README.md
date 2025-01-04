@@ -1,5 +1,5 @@
 # beatoraja-seg-display
-(sc/Screenshot.png)
+![screenshot](sc/Screenshot.png)
 A Pygame-based display tool inspired by [kinetic-flow/iidxseg](https://github.com/kinetic-flow/iidxseg
 
 ## Features
