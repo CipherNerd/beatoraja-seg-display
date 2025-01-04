@@ -13,7 +13,8 @@ A Pygame-based display tool inspired by [kinetic-flow/iidxseg](https://github.co
 
 ## Installation
 - Install dependencies from `requirements.txt`
-- Replace `"C:/path/to/your/beatoraja_log.xml"` with the path to your actual log file in the beatoraja main directory.
+- Replace `"C:/path/to/your/beatoraja_log.xml"` with the path to your actual log file in the beatoraja main directory, use / instead of \ otherwise it wount recognize path.
+- Important: Use / (forward slashes) instead of \ (backslashes), otherwise the script will not recognize the path correctly.
 - After starting one of the two files, change the song once in-game to update the display.
 
 ## Customization
