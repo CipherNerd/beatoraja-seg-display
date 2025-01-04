@@ -1,5 +1,6 @@
 # beatoraja-seg-display
 A Pygame-based display tool inspired by [kinetic-flow/iidxseg](https://github.com/kinetic-flow/iidxseg)
+[Screenshot Description](sc/Screenshot.png)
 
 ## Features
 - **Special Character Mapping**: Converts special characters to readable alternatives.
