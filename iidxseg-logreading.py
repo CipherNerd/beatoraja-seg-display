@@ -19,7 +19,7 @@ pygame.init()
 WINDOW_WIDTH = 600
 WINDOW_HEIGHT = 150
 ON_COLOR = (255, 0, 0)
-OFF_COLOR = (50, 0, 0)
+OFF_COLOR = (20, 20, 20)
 BG_COLOR = (0, 0, 0)
 FONT_NAME = "dseg14classic-italic"
 font_path = pygame.font.match_font(FONT_NAME)
